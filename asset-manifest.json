@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/popthebubble/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/popthebubble/static/js/main.dc3a3b2d.chunk.js",
+    "main.js.map": "/popthebubble/static/js/main.dc3a3b2d.chunk.js.map",
+    "runtime-main.js": "/popthebubble/static/js/runtime-main.3a97bbcc.js",
+    "runtime-main.js.map": "/popthebubble/static/js/runtime-main.3a97bbcc.js.map",
+    "static/js/2.99f9007f.chunk.js": "/popthebubble/static/js/2.99f9007f.chunk.js",
+    "static/js/2.99f9007f.chunk.js.map": "/popthebubble/static/js/2.99f9007f.chunk.js.map",
+    "static/js/3.269cc7c0.chunk.js": "/popthebubble/static/js/3.269cc7c0.chunk.js",
+    "static/js/3.269cc7c0.chunk.js.map": "/popthebubble/static/js/3.269cc7c0.chunk.js.map",
+    "index.html": "/popthebubble/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/popthebubble/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.99f9007f.chunk.js.LICENSE.txt": "/popthebubble/static/js/2.99f9007f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/popthebubble/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a97bbcc.js",
+    "static/js/2.99f9007f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.dc3a3b2d.chunk.js"
+  ]
+}
