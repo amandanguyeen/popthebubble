@@ -4,13 +4,18 @@
     justify-content: center;
     display: flex;
     flex-direction: column;
-    margin-top: 20px;
   }
 
+
+  .header-top-half {
+    display: flex;
+    justify-content:space-around;
+  }
+  
   .header-title {
       font-size: 50px;
       font-family: 'Playfair Display';
-      font-weight: 100;
+      font-weight: bold;
       text-align: center;
       margin-left: 10px;
       margin-right: 10px;
@@ -22,14 +27,9 @@
       text-align: center;
   }
 
-  .header-top-half {
-    display: flex;
-    justify-content:space-around;
-  }
-  
   .header-middle {
     display: flex;
-    margin-left: 456px;
+    margin-left: 555px;
   }
 
   .header-bottom-half {
