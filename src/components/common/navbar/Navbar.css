@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.navbar-item {
+    font-size: 10;
+    font-family: 'roboto';
+    text-decoration: none;
+    color:black;
+    margin-left: 60px;
+    margin-right: 60px;
+}
