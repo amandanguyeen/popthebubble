@@ -1,0 +1,48 @@
+
+.Header {
+    background-color: #F7F2EE;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+
+  .header-title {
+      font-size: 50px;
+      font-family: 'Playfair Display';
+      font-weight: 100;
+      text-align: center;
+      margin-left: 10px;
+      margin-right: 10px;
+  }
+
+  .header-quote {
+      font-family: 'Roboto';
+      font-size: 20px;
+      text-align: center;
+  }
+
+  .header-top-half {
+    display: flex;
+    justify-content:space-around;
+  }
+  
+  .header-middle {
+    display: flex;
+    margin-left: 456px;
+  }
+
+  .header-bottom-half {
+    display: inline-block;
+    flex: 5;
+  }
+
+
+.header-seperator {
+    width: 100%;
+    border: none;
+    height: 2px;
+    margin-top: 10px;
+    background-color: black;
+  }
+  
