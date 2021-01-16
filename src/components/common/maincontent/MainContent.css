@@ -1,0 +1,25 @@
+.mainContent {
+    display: flex;
+    justify-content:space-around;
+}
+
+.left-section {
+    font-size: 20px;
+    font-family: 'martel';
+    text-align: left;
+}
+
+.title-section {
+    font-size: 30px;
+    font-family: 'Playfair Display';
+    text-align: center;
+    font-weight: bold;
+    color: #3C256C;
+}
+
+
+.right-section {
+    font-size: 20px;
+    font-family: 'martel';
+    text-align: right;
+}
