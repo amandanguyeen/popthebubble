@@ -1,7 +1,8 @@
-import Header from "./header";
-import Navbar from "./navbar";
-import MainContent from "./maincontent";
-import PagesHeader from "./pagesheader";
-import PagesNavbar from "./pagesnavbar";
+import Header from './header';
+import Navbar from './navbar';
+import MainContent from './maincontent';
 
-export { Header, Navbar, MainContent, PagesHeader, PagesNavbar };
+export {
+    Header, Navbar, MainContent
+    
+}
