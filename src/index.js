@@ -7,6 +7,7 @@ import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import CreatePost from "./CreatePost";
+import ReadPost from "./ReadPost";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
@@ -14,6 +15,7 @@ ReactDOM.render(
     <Switch>
       <Route exact path="/popthebubble/" component={App} />
       <Route path="/createpost" component={CreatePost} />
+      <Route path="/readpost" component={ReadPost} />
     </Switch>
   </BrowserRouter>,
   rootElement

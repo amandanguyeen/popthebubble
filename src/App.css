@@ -35,5 +35,34 @@
   box-shadow: 1px 1px black;
   outline: none !important;
   margin-top: 1%;
-  margin-left: 72%;
+  margin-left: 70%;
+}
+
+.read-post-page {
+  display: inline;
+  background-color: #f7f2ee;
+  text-align: center;
+}
+
+.title-reading-block {
+  font-size: 35px;
+  font-family: "Playfair Display";
+  font-weight: bold;
+  color: #3c256c;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.comment-block {
+  font-size: 23px;
+  font-family: "Martel";
+  color: black;
+  width: 45%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 90px;
+  margin-bottom: 90px;
 }
