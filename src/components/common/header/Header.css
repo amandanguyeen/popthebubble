@@ -13,12 +13,10 @@
   }
   
   .header-title {
-      font-size: 50px;
+      font-size: 45px;
       font-family: 'Playfair Display';
       font-weight: bold;
       text-align: center;
-      margin-left: 10px;
-      margin-right: 10px;
   }
 
   .header-quote {
@@ -29,7 +27,7 @@
 
   .header-middle {
     display: flex;
-    margin-left: 555px;
+    margin-left: 563px;
   }
 
   .header-bottom-half {
