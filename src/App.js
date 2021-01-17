@@ -9,6 +9,11 @@ class App extends Component {
             <div class="App">
                  <br />
                 <Header />
+                <CreateButton />
+                <MainContent />
+
+                <MainContent />
+
                 <MainContent />
 
                 <MainContent />
@@ -21,3 +26,12 @@ class App extends Component {
 }
 
 export default App;
+
+
+class CreateButton extends Component{
+    render(){
+        return(
+            <button className="create-button">CREATE POST</button>
+        );
+    }
+}
