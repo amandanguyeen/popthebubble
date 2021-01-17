@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/popthebubble/static/css/main.386ca376.chunk.css",
-    "main.js": "/popthebubble/static/js/main.08f15bdf.chunk.js",
-    "main.js.map": "/popthebubble/static/js/main.08f15bdf.chunk.js.map",
+    "main.css": "/popthebubble/static/css/main.9cce3112.chunk.css",
+    "main.js": "/popthebubble/static/js/main.feef0fa3.chunk.js",
+    "main.js.map": "/popthebubble/static/js/main.feef0fa3.chunk.js.map",
     "runtime-main.js": "/popthebubble/static/js/runtime-main.879dd16f.js",
     "runtime-main.js.map": "/popthebubble/static/js/runtime-main.879dd16f.js.map",
     "static/js/2.c1cb3498.chunk.js": "/popthebubble/static/js/2.c1cb3498.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.bcfbfaa1.chunk.js": "/popthebubble/static/js/3.bcfbfaa1.chunk.js",
     "static/js/3.bcfbfaa1.chunk.js.map": "/popthebubble/static/js/3.bcfbfaa1.chunk.js.map",
     "index.html": "/popthebubble/index.html",
-    "static/css/main.386ca376.chunk.css.map": "/popthebubble/static/css/main.386ca376.chunk.css.map",
-    "static/js/2.c1cb3498.chunk.js.LICENSE.txt": "/popthebubble/static/js/2.c1cb3498.chunk.js.LICENSE.txt"
+    "static/css/main.9cce3112.chunk.css.map": "/popthebubble/static/css/main.9cce3112.chunk.css.map",
+    "static/js/2.c1cb3498.chunk.js.LICENSE.txt": "/popthebubble/static/js/2.c1cb3498.chunk.js.LICENSE.txt",
+    "static/media/banner-photo.f955c899.png": "/popthebubble/static/media/banner-photo.f955c899.png"
   },
   "entrypoints": [
     "static/js/runtime-main.879dd16f.js",
     "static/js/2.c1cb3498.chunk.js",
-    "static/css/main.386ca376.chunk.css",
-    "static/js/main.08f15bdf.chunk.js"
+    "static/css/main.9cce3112.chunk.css",
+    "static/js/main.feef0fa3.chunk.js"
   ]
 }
