@@ -1,6 +1,7 @@
 import React from 'react';
 import { Navbar } from '../../common';
 import './Header.css'
+import banner from './banner-photo.png'
 
 function Header(){
     return (
@@ -25,7 +26,7 @@ function Header(){
             </section>
 
             <section className="header-bottom-half">
-                PICTURE
+                <img className="banner-photo" src={banner}></img>
                 <hr className="header-seperator" /> 
             </section>
         </section>
