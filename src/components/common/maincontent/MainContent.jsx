@@ -1,14 +1,20 @@
 import React, { Component } from "react";
 import "./MainContent.css";
+import { Link } from "react-router-dom";
 
 class MainContent extends Component {
   render() {
     return (
-      <section className="mainContent">
-        <LeftSection />
-        <TitleSection />
-        <RightSection />
-      </section>
+      <Link
+        to="/readpost"
+        style={{ color: "inherit", textDecoration: "inherit" }}
+      >
+        <section className="mainContent">
+          <LeftSection />
+          <TitleSection />
+          <RightSection />
+        </section>
+      </Link>
     );
   }
 }

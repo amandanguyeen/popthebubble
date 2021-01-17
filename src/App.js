@@ -34,7 +34,6 @@ class App extends Component {
         <MainContent />
 
         <MainContent />
-        <p>{this.state.apiResponse}</p>
       </div>
     );
   }
