@@ -13,7 +13,7 @@ ReactDOM.render(
   <BrowserRouter>
     <Switch>
       <Route exact path="/popthebubble/" component={App} />
-      <Route path="/createpost" component={CreatePost} />
+      <Route path="/popthebubble/createpost" component={CreatePost} />
     </Switch>
   </BrowserRouter>,
   rootElement
