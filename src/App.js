@@ -45,10 +45,9 @@ export default App;
 class CreateButton extends Component {
   render() {
     return (
-      <button className="create-button">CREATE POST</button>
-      //   <Link to="/createpost">
-      //     <button className="create-button">CREATE POST</button>
-      //   </Link>
+      <Link to="/createpost">
+        <button className="create-button">CREATE POST</button>
+      </Link>
     );
   }
 }
