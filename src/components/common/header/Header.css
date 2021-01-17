@@ -1,42 +1,40 @@
-
 .Header {
-    background-color: #F7F2EE;
-    justify-content: center;
-    display: flex;
-    flex-direction: column;
-  }
+  background-color: #f7f2ee;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
 
+.header-top-half {
+  display: flex;
+  justify-content: space-around;
+}
 
-  .header-top-half {
-    display: flex;
-    justify-content:space-around;
-  }
-  
-  .header-title {
-      font-size: 45px;
-      font-family: 'Playfair Display';
-      font-weight: bold;
-      text-align: center;
-  }
+.header-title {
+  font-size: 40px;
+  font-family: "Playfair Display";
+  font-weight: bold;
+  text-align: center;
+}
 
-  .header-quote {
-      font-family: 'Roboto';
-      font-size: 20px;
-      text-align: center;
-  }
+.header-quote {
+  font-family: "Roboto";
+  font-size: 20px;
+  text-align: center;
+}
 
-  .header-middle {
-    display: flex;
-    margin-left: 563px;
-  }
+.header-middle {
+  display: flex;
+  justify-content: center;
+}
 
 .header-seperator {
-    width: 1350px;
-    border: none;
-    height: 2px;
-    margin-top: -10px;
-    background-color: black;
-  }
+  width: 1350px;
+  border: none;
+  height: 2px;
+  margin-top: -10px;
+  background-color: black;
+}
 
 .banner-photo {
   width: 1330px;
