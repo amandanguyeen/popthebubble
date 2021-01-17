@@ -1,7 +1,9 @@
+
 import React, { Component } from "react";
-import "./Navbar.css";
+import './Navbar.css'
 
 class Navbar extends Component {
+<<<<<<< HEAD
   render() {
     return (
       <section className="navbar">
@@ -14,6 +16,16 @@ class Navbar extends Component {
       </section>
     );
   }
+=======
+    render(){ 
+        return (
+            <section className = "navbar">
+                <a href="/" className="navbar-item">{this.props.firstLink}</a>
+                <a href="/" className="navbar-item">{this.props.secondLink}</a>
+            </section>
+        );
+    }
+>>>>>>> source
 }
 
 export default Navbar;
