@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/popthebubble/static/css/main.9cce3112.chunk.css",
-    "main.js": "/popthebubble/static/js/main.feef0fa3.chunk.js",
-    "main.js.map": "/popthebubble/static/js/main.feef0fa3.chunk.js.map",
+    "main.js": "/popthebubble/static/js/main.508c97a4.chunk.js",
+    "main.js.map": "/popthebubble/static/js/main.508c97a4.chunk.js.map",
     "runtime-main.js": "/popthebubble/static/js/runtime-main.879dd16f.js",
     "runtime-main.js.map": "/popthebubble/static/js/runtime-main.879dd16f.js.map",
     "static/js/2.c1cb3498.chunk.js": "/popthebubble/static/js/2.c1cb3498.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.879dd16f.js",
     "static/js/2.c1cb3498.chunk.js",
     "static/css/main.9cce3112.chunk.css",
-    "static/js/main.feef0fa3.chunk.js"
+    "static/js/main.508c97a4.chunk.js"
   ]
 }
